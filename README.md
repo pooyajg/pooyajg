@@ -4,7 +4,7 @@
 
 #### How to reach me
 
-jahangitipooya@gmail.com
+jahangiripooya@gmail.com
 
 <!---
 pooyajg/pooyajg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
